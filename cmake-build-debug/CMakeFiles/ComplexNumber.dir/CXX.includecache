@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/ComplexNumber/ComplexNumber.cpp
+string
+-
+vector
+-
+iostream
+-
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/ComplexNumber/main.cpp
+iostream
+-
+
